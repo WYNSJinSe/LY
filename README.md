@@ -1,5 +1,5 @@
-# LY
-foobar2000 skins build with PSS
+# LY 流萤風樂
+A foobar2000 skins build with PSS/JSP
 
 "LY" is a logo. Its real name is "流萤風樂" which is difficult to translate.
 
